@@ -50,10 +50,10 @@ const products = [
         description: "Brand:Beetel",
         price: 550,
         features: [
-            ["Image Sensor", `1/2.7" 2.4MP PS CMOS Image Sensor (6.858 centimeters)`],
-            ["Minimum Illumination", `0.02Lux/F1.85, 30IRE, 0Lux IR on`],
-            ["Effective Pixels", `2.4MP`],
-            ["BodyType", `Dome`]
+            ["Colour", `BLACK`],
+            ["What's in the box", `PHONE, RJ11 CORD, SPIRAL CORD, WARRANTY CARD`],
+            ["Manufacturer", `BEETEL TELETECH LTD`],
+            ["Country of Origin", `INDIA`]
 
         ],
         bulletPoints: [
